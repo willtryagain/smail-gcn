@@ -12,6 +12,7 @@ for l in range(2, 11):
 	train_accs.append(train_acc)
 	test_accs.append(test_acc)
 
+plt.xticks(range(9), labels=range(2, 11))
 plt.plot(train_accs)
 plt.plot(test_accs)
 plt.show()
