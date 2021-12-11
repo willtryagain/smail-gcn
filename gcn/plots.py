@@ -13,6 +13,9 @@ for l in range(2, 11):
 	test_accs.append(test_acc)
 
 plt.xticks(range(9), labels=range(2, 11))
-plt.plot(train_accs)
-plt.plot(test_accs)
-plt.show()
+plt.plot(train_accs, label="train acc")
+plt.plot(test_accs, label="test acc")
+plt.xlabel("Number of layers")
+plt.ylabel("Accuracy")
+plt.legend()
+plt.savefig("pubmed.png")
