@@ -4,9 +4,13 @@ This is a PyTorch implementation of Graph Convolutional Networks.
 
 ## t-SNE
 t-SNE visualization of hidden weights
-*  Cora ![cora](https://github.com/willtryagain/smail-gcn/blob/main/GIFs/Cora%20t-SNE%20visualisation.gif)
+*  Cora 
 
-* Pubmed ![pubmed](https://github.com/willtryagain/smail-gcn/blob/main/GIFs/Pubmed%20t-SNE%20visualisation.gif)
+![cora](https://github.com/willtryagain/smail-gcn/blob/main/GIFs/Cora%20t-SNE%20visualisation.gif)
+
+* Pubmed
+
+ ![pubmed](https://github.com/willtryagain/smail-gcn/blob/main/GIFs/Pubmed%20t-SNE%20visualisation.gif)
 
 
 # Running
