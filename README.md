@@ -15,8 +15,8 @@ t-SNE visualization of hidden weights
 
 ## Quick start
 
-1. Open on colab
-2. Run all cells. Select all files from Datasets directory and upload.
+Open [SMAIL.ipynb](https://colab.research.google.com/github/willtryagain/smail-gcn/blob/main/SMAIL.ipynb) using colab. 
+Select all files from Datasets directory and upload.
 
 
 
